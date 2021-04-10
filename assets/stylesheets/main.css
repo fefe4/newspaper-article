@@ -54,7 +54,7 @@ nav ul {
 	justify-content: space-between;
 	align-items: center;
 	height:45px;
-	
+
 }
 
 nav ul li ul li {
@@ -89,6 +89,12 @@ img {
 nav {
 	border-bottom: 1px solid rgb(212, 208, 208);
 	padding: 0 25px;
+}
+
+.header {
+	position:fixed;
+	width:100%;
+	background-color: white;
 }
 
 a:hover {
